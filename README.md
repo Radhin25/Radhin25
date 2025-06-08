@@ -1,6 +1,6 @@
 # Hi, I'm Radhin Laxman Praveen 👋 
 <div>
-   <img src="priyanshu.png" alt="Radhin Laxman Praveen" style="width: 100%; max-width: 100%; height: auto;">
+   <img src="Radhin.png" alt="Radhin Laxman Praveen" style="width: 100%; max-width: 100%; height: auto;">
 </div>
 
 I'm a software engineer passionate about creating scalable and user-centric web applications, leveraging C++ and web technologies like HTML, CSS, and JavaScript. My experience includes developing secure platforms, implementing machine learning solutions, and designing data-driven dashboards to enhance decision-making. I thrive on solving real-world challenges, fostering innovation, and continuously exploring new technologies.
