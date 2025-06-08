@@ -1,6 +1,6 @@
-# Hi, I'm Priyanshu Singh  👋 
+# Hi, I'm Radhin Laxman Praveen 👋 
 <div>
-   <img src="priyanshu.png" alt="Priyanshu Singh" style="width: 100%; max-width: 100%; height: auto;">
+   <img src="priyanshu.png" alt="Radhin Laxman Praveen" style="width: 100%; max-width: 100%; height: auto;">
 </div>
 
 I'm a software engineer passionate about creating scalable and user-centric web applications, leveraging C++ and web technologies like HTML, CSS, and JavaScript. My experience includes developing secure platforms, implementing machine learning solutions, and designing data-driven dashboards to enhance decision-making. I thrive on solving real-world challenges, fostering innovation, and continuously exploring new technologies.
@@ -8,7 +8,6 @@ I'm a software engineer passionate about creating scalable and user-centric web 
 <div>
   <img align="right" src="giphy.gif" alt="Coding GIF" height="230" width="230" style="float: right; margin-left: 10px;">
 </div>
-
 
 ## 🛠️ **Tech Stack**
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
@@ -27,19 +26,19 @@ I'm a software engineer passionate about creating scalable and user-centric web 
 <br/>
 
 ## 🏆 **GitHub Trophies**  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=priyanshusingh017&theme=radical&column=6&margin-w=15&margin-h=15&no-frame=false&v=1)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Radhin25&theme=radical&column=6&margin-w=15&margin-h=15&no-frame=false&v=1)
 
-
+<br/>
 
 ## 🧩 **LeetCode Stats**
 
 <div align="center" style="background-color: #1F1F1F; padding: 15px; border-radius: 10px; display: inline-block;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" height="30" style="vertical-align: middle; margin-right: 10px;">
   <span style="color: #FFD700; font-size: 22px; font-weight: bold;">LeetCode</span>
-  <span style="color: #00E676; font-size: 18px; font-weight: bold; margin-left: 15px;">_priyanshusingh01</span>
+  <span style="color: #00E676; font-size: 18px; font-weight: bold; margin-left: 15px;">RadhinLaxmanPraveen</span>
   <br/><br/>
   <div style="margin-top: 10px;">
-    <img src="https://leetcard.jacoblin.cool/_priyanshusingh01?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Status Card" width="400">
+    <img src="https://leetcard.jacoblin.cool/RadhinLaxmanPraveen?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Status Card" width="400">
   </div>
 </div>
 
@@ -56,6 +55,3 @@ I'm a software engineer passionate about creating scalable and user-centric web 
 > _"Programming is like writing a book... except if you miss a single comma on page 126, the whole thing crashes."_  
 > — **Anonymous**
 
----
-
-# Radhin25
